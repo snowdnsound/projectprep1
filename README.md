@@ -139,7 +139,6 @@ https://docs.google.com/presentation/d/1NeXKKEpjK2DDme8EwlZBsJndUqIgGYzWrY6FAYtN
 * Who merges PRs? Drew “The Merge-Man” Stroede
 * How often will you merge? Only merging to the main branch when features are complete.
 * How will you communicate that it’s time to merge? Slack or Standups
-* 
 
 
 
